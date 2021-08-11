@@ -9,4 +9,4 @@
 * Jupyter notebook with the data cleaning, merging, regression testing, and pairwise correlation of columns
 * Datasets are from 2019 USDA Food Access Research Atlas & healthdata.gov COVID-19 Community Profile Report
 * Tableau dashboard is available [HERE](https://public.tableau.com/app/profile/ibukun.olude/viz/TeamProject_Group88/Dashboard2)
-* 2 additional Tableau maps are added that weren't included on the dashboard
+* 2 additional Tableau maps are added that weren't included on the dashboard: Map of NY with census tract boundaries displaying where food deserts are located & a map of NY with county boundaries displaying the amount of Covid cases in each county
