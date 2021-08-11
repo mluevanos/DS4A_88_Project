@@ -1,7 +1,7 @@
 # ds4a_88_project
 
 ## [Data Science For All](https://s3.us-east-2.amazonaws.com/ds4a-empowerment-2.0/DS4A_Empowerment_welcome_4-16-21_vF.pdf?latest=true) Capstone Project: 
-## New York State Socioeconomic Factors and Covid-19 Case Rates.
+## _New York State Socioeconomic Factors and Covid-19 Case Rates_ - Investigating whether socioeconomic factors impacted Covid-19 rates in the state of New York
 
 ### Respository Contains:
 * Full report with methodology, regression model, resources, limitations, exploratory data analysis, and recommendtations as a PDF
